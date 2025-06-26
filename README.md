@@ -59,6 +59,8 @@ CHANNEL_ID=-100xxxxxxxxxx  # Telegram channel ID with -100 prefix
 ### ☁️ Deploy to Render
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Popeye68/TXT-EXTRACTOR)
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mr-vermaji/TXT-EXTRACTOR)
+
 ### ☁️ Deploy to Heroku (Manual)
 ```bash
 1. Fork this repo
